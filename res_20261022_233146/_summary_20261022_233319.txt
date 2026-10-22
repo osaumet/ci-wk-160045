@@ -1,0 +1,14 @@
+Scan Summary
+============
+Date: 2026-10-22T23:33:19.158583
+Total: 375
+Vulnerable: 1
+Failed: 0
+States: {"dns_or_connect_error": 142, "http_error": 175, "unknown_timeout": 57, "vulnerable": 1}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 0 targets
+
+Vulnerable targets:
+  - rosieprom_com_20261022_233153.json
+  - seagullsrtb_com_20261022_233150.json
+  - www_seagullsrtb_com_20261022_233150.json
