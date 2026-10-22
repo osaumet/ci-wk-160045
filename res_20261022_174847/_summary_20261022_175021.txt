@@ -1,0 +1,12 @@
+Scan Summary
+============
+Date: 2026-10-22T17:50:21.516411
+Total: 382
+Vulnerable: 0
+Failed: 0
+States: {"dns_or_connect_error": 105, "http_error": 207, "unknown_timeout": 70}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 0 targets
+
+Vulnerable targets:
+  - staging_bodyfyme_com_20261022_174850.json
