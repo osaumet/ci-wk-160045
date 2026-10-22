@@ -1,0 +1,13 @@
+Scan Summary
+============
+Date: 2026-10-22T19:52:15.729145
+Total: 182
+Vulnerable: 0
+Failed: 0
+States: {"dns_or_connect_error": 16, "http_error": 46, "unknown_timeout": 120}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 0 targets
+
+Vulnerable targets:
+  - radom39_ru_20261022_195101.json
+  - www_radom39_ru_20261022_195101.json
