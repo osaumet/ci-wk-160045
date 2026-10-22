@@ -1,0 +1,60 @@
+{
+  "target": "www.pishrooshop.ir",
+  "scan_time": "2026-10-22T14:40:16.858639",
+  "data": {
+    "platform": "linux",
+    "user_id": "salman",
+    "kernel_release": "5.15.0-185-generic",
+    "hostname": "mail.pishrooshop.ir",
+    "env_type": "METAL",
+    "files": [
+      "/home/salman/pishro-front/.next/standalone/.env.production",
+      "/home/salman/pishro-front/.next/standalone/package.json"
+    ],
+    "host_cores_total": "1",
+    "usable_cores": "1",
+    "cpu_model": "Intel(R) Xeon(R) CPU E5-2696 v2 @ 2.50GHz",
+    "has_avx2": "0",
+    "ram_total_mb": "1963",
+    "usable_ram_mb": "1963",
+    "ips": [
+      "185.128.139.215"
+    ],
+    "writable_paths": [
+      "/tmp",
+      "/dev/shm",
+      "/var/tmp"
+    ],
+    "cwd": "/home/salman/pishro-front/.next/standalone",
+    "node_version": "v22.23.1",
+    "env_vars": {
+      "LANG": "en_US.UTF-8",
+      "PATH": "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin",
+      "HOME": "/home/salman",
+      "LOGNAME": "salman",
+      "USER": "salman",
+      "SHELL": "/bin/bash",
+      "INVOCATION_ID": "c67aa0bb5c5643b3884afa7200e5a414",
+      "SYSTEMD_EXEC_PID": "1098304",
+      "NODE_ENV": "production",
+      "PORT": "3001",
+      "HOSTNAME": "127.0.0.1",
+      "__NEXT_PRIVATE_STANDALONE_CONFIG": "{\"env\":{},\"webpack\":null,\"eslint\":{\"ignoreDuringBuilds\":false},\"typescript\":{\"ignoreBuildErrors\":false,\"tsconfigPath\":\"tsconfig.json\"},\"typedRoutes\":false,\"distDir\":\"./.next\",\"cleanDistDir\":true,\"assetPrefix\":\"\",\"cacheMaxMemorySize\":52428800,\"configOrigin\":\"next.config.ts\",\"useFileSystemPublicRoutes\":true,\"generateEtags\":true,\"pageExtensions\":[\"tsx\",\"ts\",\"jsx\",\"js\"],\"poweredByHeader\":false,\"compress\":true,\"images\":{\"deviceSizes\":[640,750,828,1080,1200,1920,2048,3840],\"imageSizes\":[16,32,48,64,96,128,256,384],\"path\":\"/_next/image\",\"loader\":\"default\",\"loaderFile\":\"\",\"domains\":[],\"disableStaticImages\":false,\"minimumCacheTTL\":60,\"formats\":[\"image/webp\"],\"dangerouslyAllowSVG\":false,\"contentSecurityPolicy\":\"script-src 'none'; frame-src 'none'; sandbox;\",\"contentDispositionType\":\"attachment\",\"remotePatterns\":[{\"protocol\":\"https\",\"hostname\":\"placehold.co\",\"pathname\":\"**\"},{\"protocol\":\"http\",\"hostname\":\"127.0.0.1\",\"port\":\"8000\",\"pathname\":\"**\"},{\"protocol\":\"http\",\"hostname\":\"localhost\",\"port\":\"8000\",\"pathname\":\"**\"},{\"protocol\":\"https\",\"hostname\":\"panel.pishrooshop.ir\",\"port\":\"\",\"pathname\":\"**\"}],\"unoptimized\":false},\"devIndicators\":{\"position\":\"bottom-left\"},\"onDemandEntries\":{\"maxInactiveAge\":60000,\"pagesBufferLength\":5},\"amp\":{\"canonicalBase\":\"\"},\"basePath\":\"\",\"sassOptions\":{},\"trailingSlash\":false,\"i18n\":null,\"productionBrowserSourceMaps\":false,\"excludeDefaultMomentLocales\":true,\"serverRuntimeConfig\":{},\"publicRuntimeConfig\":{},\"reactProductionProfiling\":false,\"reactStrictMode\":null,\"reactMaxHeadersLength\":6000,\"httpAgentOptions\":{\"keepAlive\":true},\"logging\":{},\"compiler\":{},\"expireTime\":31536000,\"staticPageGenerationTimeout\":60,\"output\":\"standalone\",\"modularizeImports\":{\"@mui/icons-material\":{\"transform\":\"@mui/icons-material/{{member}}\"},\"lodash\":{\"transform\":\"lodash/{{member}}\"}},\"outputFileTracingRoot\":\"/home/salman/pishro-front\",\"experimental\":{\"useSkewCookie\":false,\"cacheLife\":{\"default\":{\"stale\":300,\"revalidate\":900,\"expire\":4294967294},\"seconds\":{\"stale\":30,\"revalidate\":1,\"expire\":60},\"minutes\":{\"stale\":300,\"revalidate\":60,\"expire\":3600},\"hours\":{\"stale\":300,\"revalidate\":3600,\"expire\":86400},\"days\":{\"stale\":300,\"revalidate\":86400,\"expire\":604800},\"weeks\":{\"stale\":300,\"revalidate\":604800,\"expire\":2592000},\"max\":{\"stale\":300,\"revalidate\":2592000,\"expire\":4294967294}},\"cacheHandlers\":{},\"cssChunking\":true,\"multiZoneDraftMode\":false,\"appNavFailHandling\":false,\"prerenderEarlyExit\":true,\"serverMinification\":true,\"serverSourceMaps\":false,\"linkNoTouchStart\":false,\"caseSensitiveRoutes\":false,\"clientSegmentCache\":false,\"clientParamParsing\":false,\"dynamicOnHover\":false,\"preloadEntriesOnStart\":true,\"clientRouterFilter\":true,\"clientRouterFilterRedirects\":false,\"fetchCacheKeyPrefix\":\"\",\"middlewarePrefetch\":\"flexible\",\"optimisticClientCache\":true,\"manualClientBasePath\":false,\"cpus\":1,\"memoryBasedWorkersCount\":false,\"imgOptConcurrency\":null,\"imgOptTimeoutInSeconds\":7,\"imgOptMaxInputPixels\":268402689,\"imgOptSequentialRead\":null,\"imgOptSkipMetadata\":null,\"isrFlushToDisk\":true,\"workerThreads\":false,\"optimizeCss\":false,\"nextScriptWorkers\":false,\"scrollRestoration\":false,\"externalDir\":false,\"disableOptimizedLoading\":false,\"gzipSize\":true,\"craCompat\":false,\"esmExternals\":true,\"fullySpecified\":false,\"swcTraceProfiling\":false,\"forceSwcTransforms\":false,\"largePageDataBytes\":128000,\"typedEnv\":false,\"parallelServerCompiles\":false,\"parallelServerBuildTraces\":false,\"ppr\":false,\"authInterrupts\":false,\"webpackMemoryOptimizations\":false,\"optimizeServerReact\":true,\"viewTransition\":false,\"routerBFCache\":false,\"removeUncaughtErrorAndRejectionListeners\":false,\"validateRSCRequestHeaders\":false,\"staleTimes\":{\"dynamic\":0,\"static\":300},\"serverComponentsHmrCache\":true,\"staticGenerationMaxConcurrency\":8,\"staticGenerationMinPagesPerWorker\":25,\"cacheComponents\":false,\"inlineCss\":false,\"useCache\":false,\"globalNotFound\":false,\"devtoolSegmentExplorer\":true,\"browserDebugInfoInTerminal\":false,\"optimizeRouterScrolling\":false,\"optimizePackageImports\":[\"lucide-react\",\"date-fns\",\"lodash-es\",\"ramda\",\"antd\",\"react-bootstrap\",\"ahooks\",\"@ant-design/icons\",\"@headlessui/react\",\"@headlessui-float/react\",\"@heroicons/react/20/solid\",\"@heroicons/react/24/solid\",\"@heroicons/react/24/outline\",\"@visx/visx\",\"@tremor/react\",\"rxjs\",\"@mui/material\",\"@mui/icons-material\",\"recharts\",\"react-use\",\"effect\",\"@effect/schema\",\"@effect/platform\",\"@effect/platform-node\",\"@effect/platform-browser\",\"@effect/platform-bun\",\"@effect/sql\",\"@effect/sql-mssql\",\"@effect/sql-mysql2\",\"@effect/sql-pg\",\"@effect/sql-sqlite-node\",\"@effect/sql-sqlite-bun\",\"@effect/sql-sqlite-wasm\",\"@effect/sql-sqlite-react-native\",\"@effect/rpc\",\"@effect/rpc-http\",\"@effect/typeclass\",\"@effect/experimental\",\"@effect/opentelemetry\",\"@material-ui/core\",\"@material-ui/icons\",\"@tabler/icons-react\",\"mui-core\",\"react-icons/ai\",\"react-icons/bi\",\"react-icons/bs\",\"react-icons/cg\",\"react-icons/ci\",\"react-icons/di\",\"react-icons/fa\",\"react-icons/fa6\",\"react-icons/fc\",\"react-icons/fi\",\"react-icons/gi\",\"react-icons/go\",\"react-icons/gr\",\"react-icons/hi\",\"react-icons/hi2\",\"react-icons/im\",\"react-icons/io\",\"react-icons/io5\",\"react-icons/lia\",\"react-icons/lib\",\"react-icons/lu\",\"react-icons/md\",\"react-icons/pi\",\"react-icons/ri\",\"react-icons/rx\",\"react-icons/si\",\"react-icons/sl\",\"react-icons/tb\",\"react-icons/tfi\",\"react-icons/ti\",\"react-icons/vsc\",\"react-icons/wi\"],\"trustHostHeader\":false,\"isExperimentalCompile\":false},\"htmlLimitedBots\":\"[\\\\w-]+-Google|Google-[\\\\w-]+|Chrome-Lighthouse|Slurp|DuckDuckBot|baiduspider|yandex|sogou|bitlybot|tumblr|vkShare|quora link preview|redditbot|ia_archiver|Bingbot|BingPreview|applebot|facebookexternalhit|facebookcatalog|Twitterbot|LinkedInBot|Slackbot|Discordbot|WhatsApp|SkypeUriPreview|Yeti|googleweblight\",\"bundlePagesRouterDependencies\":false,\"configFileName\":\"next.config.ts\",\"turbopack\":{\"root\":\"/home/salman/pishro-front\"}}",
+      "__NEXT_PRIVATE_ORIGIN": "http://127.0.0.1:3001",
+      "__NEXT_PROCESSED_ENV": "true",
+      "NEXT_PUBLIC_API_URL": "https://panel.pishrooshop.ir",
+      "NEXT_PUBLIC_SITE_URL": "https://pishrooshop.ir",
+      "NEXT_PUBLIC_SHOP_CARD_NUMBER": "",
+      "NEXT_PUBLIC_SHOP_CARD_HOLDER": "صادق شه بخش",
+      "NEXT_PUBLIC_SHOP_CARD_BANK": "بانک ملی",
+      "NEXT_DEPLOYMENT_ID": "",
+      "VIPSHOME": "/target"
+    },
+    "env_vars_count": "21",
+    "is_hvt": "false",
+    "procs": "1:/sbin/init|1051:postgres: 14/main: checkpointer|1052:postgres: 14/main: background writer|1054:postgres: 14/main: walwriter|1055:postgres: 14/main: autovacuum launcher|1056:postgres: 14/main: stats collector|1057:postgres: 14/main: logical replication launcher|1059548:/usr/sbin/cron -f -P|1079741:/home/salman/pishroo-shop/env/bin/python3 /home/salman/pishroo-shop/env/bin/guni|1098304:next-server (v15.5.2)|1167388:/home/salman/pishroo-shop/env/bin/python3 /home/salman/pishroo-shop/env/bin/guni|1167411:/home/salman/pishroo-shop/env/bin/python3 /home/salman/pishroo-shop/env/bin/guni|1169837:/home/salman/pishroo-shop/env/bin/python3 /home/salman/pishroo-shop/env/bin/guni|1208697:/home/salman/salman_platform/salman-dj/env/bin/python3 /home/salman/salman_platf|1208701:/home/salman/salman_platform/salman-dj/env/bin/python3 /home/salman/salman_platf|1208702:/home/salman/salman_platform/salman-dj/env/bin/python3 /home/salman/salman_platf|1208774:qmgr -l -t unix -u|1208777:dovecot/log|1208781:nginx: worker process|1209426:tlsmgr -l -t unix -u -c|1210259:npm start|1210272:sh -c next start|1210273:next-server (v16.4.2)|1210315:dovecot/config|1210316:dovecot/stats|1250501:redis-server r|1317555:php-fpm: pool www|1317556:php-fpm: pool www|1334350:/usr/bin/php artisan queue:work database --sleep=3 --tries=3 --max-time=3600|1335464:pickup -l -t unix -u -c|1336441:php-fpm: pool www|1336446:anvil -l -t unix -u -c|1336505:postgres: 14/main: pishro_user pishro_db 127.0.0.1(38910) idle|1336507:postgres: 14/main: pishro_user pishro_db 127.0.0.1(38926) idle|1336508:postgres: 14/main: pishro_user pishro_db 127.0.0.1(38940) idle|1336704:postgres: 14/main: pishro_user pishro_db 127.0.0.1(53980) idle",
+    "listening_ports": "993,33060,5432,6379,3306,587,465,3001,3000,443,42780,8005,8000,143,80,25,22",
+    "llm_checks": []
+  },
+  "bypass_used": 0
+}
