@@ -25,3 +25,4 @@ front-k3s-staging.apptenticate.com
 pvvws2.com
 pvm202003.pvvws2.com
 mytable.au
+marcus-audit-de.app.gimaco.de

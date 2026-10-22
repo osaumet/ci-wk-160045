@@ -1,0 +1,19 @@
+Scan Summary
+============
+Date: 2026-10-22T19:22:40.308785
+Total: 368
+Vulnerable: 0
+Failed: 0
+States: {"dns_or_connect_error": 73, "http_error": 242, "unknown_timeout": 53}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 1 targets
+
+Vulnerable targets:
+  - marcus-audit-de_app_gimaco_de_20261022_192111.json
+
+
+CRITICAL CRYPTO KEYS FOUND:
+===========================
+
+Target: marcus-audit-de.app.gimaco.de
+  🔑 DATABASE_URL: [REDACTED]
