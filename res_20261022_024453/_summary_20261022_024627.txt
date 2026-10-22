@@ -1,0 +1,21 @@
+Scan Summary
+============
+Date: 2026-10-22T02:46:27.444515
+Total: 416
+Vulnerable: 1
+Failed: 0
+States: {"dns_or_connect_error": 95, "http_error": 254, "unknown_timeout": 66, "vulnerable": 1}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 1 targets
+
+Vulnerable targets:
+  - demo_schoolink360_tr_20261022_024457.json
+  - invest_qalitylabs_fr_20261022_024458.json
+  - testimony_ahader_cloud_20261022_024457.json
+
+
+CRITICAL CRYPTO KEYS FOUND:
+===========================
+
+Target: testimony.ahader.cloud
+  🔑 DATABASE_URL: [REDACTED]
