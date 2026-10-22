@@ -1,0 +1,13 @@
+Scan Summary
+============
+Date: 2026-10-22T22:58:53.396843
+Total: 407
+Vulnerable: 2
+Failed: 0
+States: {"dns_or_connect_error": 69, "http_error": 256, "unknown_timeout": 80, "vulnerable": 2}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 0 targets
+
+Vulnerable targets:
+  - app_algoritmohumano_io_20261022_225727.json
+  - holiday_sxwzxc_cn_20261022_225728.json
