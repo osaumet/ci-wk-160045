@@ -1,0 +1,13 @@
+Scan Summary
+============
+Date: 2026-10-23T02:44:24.164826
+Total: 381
+Vulnerable: 1
+Failed: 0
+States: {"dns_or_connect_error": 40, "http_error": 234, "unknown_timeout": 106, "vulnerable": 1}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 0 targets
+
+Vulnerable targets:
+  - viralearnn_ir_20261023_024256.json
+  - www_asapcoding_com_au_20261023_024258.json
