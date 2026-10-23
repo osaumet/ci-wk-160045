@@ -1,0 +1,12 @@
+Scan Summary
+============
+Date: 2026-10-23T21:03:43.641917
+Total: 400
+Vulnerable: 0
+Failed: 0
+States: {"dns_or_connect_error": 119, "http_error": 212, "unknown_timeout": 69}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 0 targets
+
+Vulnerable targets:
+  - dify_forceai_jp_20261023_210212.json
