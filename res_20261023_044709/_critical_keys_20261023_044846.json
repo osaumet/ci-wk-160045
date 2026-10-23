@@ -1,0 +1,24 @@
+[
+  {
+    "target": "staging.immotep.re",
+    "keys": [
+      [
+        "🔑 DATABASE_URL",
+        "[REDACTED]",
+        "env_vars.DATABASE_URL"
+      ]
+    ],
+    "file": "res_20261023_044709/staging_immotep_re_20261023_044717.json"
+  },
+  {
+    "target": "www.staging.immotep.re",
+    "keys": [
+      [
+        "🔑 DATABASE_URL",
+        "[REDACTED]",
+        "env_vars.DATABASE_URL"
+      ]
+    ],
+    "file": "res_20261023_044709/www_staging_immotep_re_20261023_044716.json"
+  }
+]
