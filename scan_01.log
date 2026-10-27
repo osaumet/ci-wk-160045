@@ -1,88 +1,59 @@
 [dedup] warn: text registry append failed: [Errno 13] Permission denied: '/root/ct_dump/priority_scanned.txt'
-[dedup] on: 459 hosts in (463 probes) -> 62 unseen hosts (62 probes) | skipped 401 already-scanned probes
+[dedup] on: 255 hosts in (255 probes) -> 33 unseen hosts (33 probes) | skipped 222 already-scanned probes
 ======================================================================
 CVE-2025-55182 Batch Scanner — @Haf[redacted]Bot
 ======================================================================
-[*] Targets: 62
+[*] Targets: 33
 [*] Concurrency: 250 | Timeout: 8s
-[*] Output directory: res_20261024_000251
+[*] Output directory: res_20261027_231723
 [*] Telegram: Will send zip when complete
 [*] Vulnerable registry: vulnerable_targets_registry.txt
 ----------------------------------------------------------------------
-[1/62] pvc.oceantis.com - dns_or_connect_error
-[2/62] jiuye.oceantis.com - dns_or_connect_error
-[3/62] it.derriedmichl.com - http_error
-[4/62] playlinked.net - http_error
-[5/62] printlinkchecker.com - http_error
-[6/62] funny-excellence-739e2b7ba9.strapiapp.com - dns_or_connect_error
-[7/62] www.www.notexistsyriigf0dbf0db90860977260421086ap-northeast-1.vpce.amazonmap.medellin.onl - dns_or_connect_error
-[8/62] www-339761065.na3.prod.hubspot-at-test.com - dns_or_connect_error
-[9/62] trust.gigamon.com - http_error
-[10/62] www.vyral.dev - http_error
-[11/62] webmail.taylorcounseling.com - http_error
-[12/62] www.loveled.org - http_error
-[13/62] mwww.pojmhgfmhgfedcbaxwvuxwvutonpupnvzr4q3r2qs3n02ruqt1mvm1tv43nr.3210bzm91ce0icu9lvct.123barnystreet.opik.net - dns_or_connect_error
-[14/62] analytics.petaxxon.com.br - http_error
-[15/62] www.zonacarwash.ba - http_error
-[16/62] www.joverflowsolutione.com.ph - http_error
-[17/62] www.happycrafts.ph - http_error
-[18/62] xrvemiou.mttaborpreschool.org - dns_or_connect_error
-[19/62] www.xn--sprimgglobalmil-gkb.ph - http_error
-[20/62] docs.samplehc.com - http_error
-[21/62] xn--atiuminovations-8wc7567j.ph - http_error
-[22/62] phonezone.ca - http_error
-[23/62] www.umeshsingh.cv - http_error
-[24/62] livohub.kolivo.org - http_error
-[25/62] inbat-eg.com - http_error
-[26/62] dallashandymanpro.com - http_error
-[27/62] agroturystyka.klodzko.pl - http_error
-[28/62] www.planencende.online - dns_or_connect_error
-[29/62] www.altay-pilorama.ru - dns_or_connect_error
-[30/62] mail.contemp1.mywhc.ca - http_error
-[31/62] 9907543www1111141186878137613.slowcityhostelpontevedra.com - http_error
-[32/62] mail.coldstorageperformance.com - http_error
-[33/62] kaesegeschenke.de - http_error
-[34/62] devlethaber.com.tr - http_error
-[35/62] unifio.edu.br - http_error
-[36/62] 02ddcb00625fcf35fbc085e4.netcraze.io - http_error
-[37/62] d34be91f137c878b7ffdfd93.netcraze.io - unknown_timeout
-[38/62] lymaxpulseapex.digital - unknown_timeout
-[39/62] nachhilfeunterricht.info - unknown_timeout
-[40/62] rossistudio-rbs.direct.quickconnect.to - unknown_timeout
-[41/62] superfreechip123.xyz - unknown_timeout
-[42/62] suzeeaihq.com - unknown_timeout
-[43/62] ww7.suplexphiladelphia.com - unknown_timeout
-[44/62] ww50.handcircle.com - unknown_timeout
-[45/62] dash.grynnandbarett.com - unknown_timeout
-[46/62] staging.handcircle.com - unknown_timeout
-[47/62] pouchoncloud.direct.quickconnect.to - unknown_timeout
-[48/62] snakegames.club - unknown_timeout
-[49/62] aqzmk.hbmarketing.top - unknown_timeout
-[50/62] wap.beritamedan.com - unknown_timeout
-[51/62] alerazius1980.freeboxos.fr - unknown_timeout
-[52/62] 25t.net - unknown_timeout
-[53/62] elearning.pepite-sante.fr - unknown_timeout
-[54/62] livedrawhongkong.live - unknown_timeout
-[55/62] test.vavadat77.com - unknown_timeout
-[56/62] admin.zenma.top - unknown_timeout
-[57/62] nalozhka.sbermegamarket.nalozhka.comww.806awxtsxod3awb.qa3oohhkr7xminn.shopify.autofarba.com - unknown_timeout
-[58/62] www.bbs.m1store.com.ua - unknown_timeout
-[59/62] 474475259.box.freepro.com - unknown_timeout
-[60/62] 3e2uz26aalwfhi7k.myfritz.net - unknown_timeout
-[61/62] mta-sts.dizerens.org - unknown_timeout
-[62/62] k4xevwqqkp8y12ww.myfritz.net - unknown_timeout
+[1/33] courtneyhandlphotography.com - http_error
+[2/33] cf6ca59e.sni.cloudflaressl.com - dns_or_connect_error
+[3/33] trump2024hatsandmerch.com - http_error
+[4/33] smvd.s0qonj0hfn0ljilgff0dbad766042187618770532097705370532en.dcurtis.svbtlestage.com - dns_or_connect_error
+[5/33] goblinspire.com - http_error
+[6/33] 4www.3duyyoabndnw3q59aila3ycz4x9.cse.casl.cal.msu.edu - dns_or_connect_error
+[7/33] www.magistvsp.net - http_error
+[8/33] test.patientcenteredmedicalcommunity.net - http_error
+[9/33] cms.cargo-underwriters.net - dns_or_connect_error
+[10/33] iixi.cc - http_error
+[11/33] burninglovebendigo.com - http_error
+[12/33] m.solaridaho.com - dns_or_connect_error
+[13/33] dev-com-gs.collegehealthsurvey.co - http_error
+[14/33] autodiscover.nlem.battery.cam - dns_or_connect_error
+[15/33] arabic.cofdmvideotransmitter.com - unknown_timeout
+[16/33] german.cofdmvideotransmitter.com - unknown_timeout
+[17/33] korean.intermediatespharma.com - unknown_timeout
+[18/33] hindi.carspraywax.com - unknown_timeout
+[19/33] persian.cofdmvideotransmitter.com - unknown_timeout
+[20/33] greek.tinoxtio2.com - unknown_timeout
+[21/33] spanish.intermediatespharma.com - unknown_timeout
+[22/33] report.k8s.kyp.stg.cerc.com - unknown_timeout
+[23/33] m.thai.decorativeglassvase.com - unknown_timeout
+[24/33] french.metalscrapshredder.com - unknown_timeout
+[25/33] vietnamese.metalscrapshredder.com - unknown_timeout
+[26/33] dutch.intermediatespharma.com - unknown_timeout
+[27/33] m.bengali.intermediatespharma.com - unknown_timeout
+[28/33] hindi.cofdmvideotransmitter.com - unknown_timeout
+[29/33] m.hindi.carspraywax.com - unknown_timeout
+[30/33] www.3tggrrherfuckingnigger.151.80.60.23.sslip.io - unknown_timeout
+[31/33] japanese.metalscrapshredder.com - unknown_timeout
+[32/33] cohttwebmail.youandco.com.au - unknown_timeout
+[33/33] french.cofdmvideotransmitter.com - unknown_timeout
 
 ======================================================================
 [*] Scan complete!
-    Total scanned: 62
+    Total scanned: 33
     Vulnerable: 0
     Failed: 0
-[+] Results saved in: res_20261024_000251
+[+] Results saved in: res_20261027_231723
 
 [*] Analyzing results...
     Found 0 targets with critical keys
-[+] Summary saved: res_20261024_000251/_summary_20261024_000412.txt
+[+] Summary saved: res_20261027_231723/_summary_20261027_231843.txt
 
 [*] Zipping results folder...
-    Created: res_20261024_000251.zip (0.0 MB)
+    Created: res_20261027_231723.zip (0.0 MB)
     Telegram delivery disabled by default (set SEND_TELEGRAM=1 to send raw result zip)
