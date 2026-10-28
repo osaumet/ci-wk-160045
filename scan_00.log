@@ -1,72 +1,160 @@
 [dedup] warn: text registry append failed: [Errno 13] Permission denied: '/root/ct_dump/priority_scanned.txt'
-[dedup] on: 199 hosts in (199 probes) -> 46 unseen hosts (46 probes) | skipped 153 already-scanned probes
+[dedup] on: 131 hosts in (134 probes) -> 131 unseen hosts (134 probes) | skipped 0 already-scanned probes
 ======================================================================
 CVE-2025-55182 Batch Scanner — @Haf[redacted]Bot
 ======================================================================
-[*] Targets: 46
+[*] Targets: 134
 [*] Concurrency: 250 | Timeout: 8s
-[*] Output directory: res_20261027_231723
+[*] Output directory: res_20261028_051703
 [*] Telegram: Will send zip when complete
 [*] Vulnerable registry: vulnerable_targets_registry.txt
 ----------------------------------------------------------------------
-[1/46] www.souqgadgetsmall.com - dns_or_connect_error
-[2/46] t0rpwjqstjihgfedcbaupdate.98765be6191f5-7f66-434b-aa40-8af02a17684a.supertutorlc.com - dns_or_connect_error
-[3/46] s0qomvd.k0igjihcfedcbaxaxcd76533c0c72d-e3b2-497b-87e0-fe93800546c2.supertutorlc.com - dns_or_connect_error
-[4/46] www.mynextlinker.com - http_error
-[5/46] www.xn--perir-esa3683c.ph - http_error
-[6/46] www.urawa-keiseishimkin.ph - http_error
-[7/46] 50519c.shop - http_error
-[8/46] www.vilkaviskiobaseinas.lt - http_error
-[9/46] qwww.lkjilkfedgbegzijyqec.wzulqcbdvny.srmlkjidonmlkfedvrcqh654cb0efb4e05-0c96-4156-b771-a34d78af1bbe.yektasaka.org - dns_or_connect_error
-[10/46] howoge.synology.me - http_error
-[11/46] autodiscover.ecstacyinc.battery.cam - dns_or_connect_error
-[12/46] yik-consulting.annraughtauthor.com - http_error
-[13/46] yiyaotech.com - dns_or_connect_error
-[14/46] movetobrenvo.com - http_error
-[15/46] jeevanrakshak.ai - http_error
-[16/46] webmail.lightspeedanalytics.com - http_error
-[17/46] ajantac.casa - unknown_timeout
-[18/46] android.bitscrow.io - http_error
-[19/46] device-local-b63050ff-54ec-4af1-98e1-46ae8986ca63.remotewd.com - unknown_timeout
-[20/46] italian.mobileboosterjammer.com - unknown_timeout
-[21/46] arabic.flutelaminatormachine.com - unknown_timeout
-[22/46] gettinkly.online - unknown_timeout
-[23/46] damistudio.site - unknown_timeout
-[24/46] arabic.metalscrapshredder.com - unknown_timeout
-[25/46] dutch.mobileboosterjammer.com - unknown_timeout
-[26/46] www.9www.4notexistsnotexistsnotexistsnotexistsadmin.grvt.group - unknown_timeout
-[27/46] style.decorativeglassvase.com - unknown_timeout
-[28/46] dutch.flutelaminatormachine.com - unknown_timeout
-[29/46] m.thai.flutelaminatormachine.com - unknown_timeout
-[30/46] french.carspraywax.com - unknown_timeout
-[31/46] lovelifenow.us - unknown_timeout
-[32/46] www.flutelaminatormachine.com - unknown_timeout
-[33/46] fideserv--vpn.wildixin.com - unknown_timeout
-[34/46] dev.0whm.y7l4zwpf6hqgod0v.domain12.local.pramirez.dev - unknown_timeout
-[35/46] greek.twccatalyst.com - unknown_timeout
-[36/46] thai.intermediatespharma.com - unknown_timeout
-[37/46] portuguese.compressionmould.com - unknown_timeout
-[38/46] vietnamese.galvanized-steelcoils.com - unknown_timeout
-[39/46] 0arfbtpop.goodpostman.com - unknown_timeout
-[40/46] ad-terram.direct.quickconnect.to - unknown_timeout
-[41/46] www.gullivershouse.com - unknown_timeout
-[42/46] m.indonesian.decorativeglassvase.com - unknown_timeout
-[43/46] mrapp4b1cxudg4ai.myfritz.net - unknown_timeout
-[44/46] www.horn-dms.de - unknown_timeout
-[45/46] musilion.cz - unknown_timeout
-[46/46] 925cc007.l8yxs.top - unknown_timeout
+[1/134] portfolio1-2oy.pages.dev - http_error
+[2/134] maniv.co.uk - dns_or_connect_error
+[3/134] rsb-baas-sandbox.zendesk.com - http_error
+[4/134] gineco-next.zendesk.com - http_error
+[5/134] kede.hu - http_error
+[6/134] bbgo1774534299.zendesk.com - http_error
+[7/134] learnzconnect.com - http_error
+[8/134] rqponutsrqponmhgbadcbnotexists432543nancy-mercedrealestate-com.mercedrealestate.com - dns_or_connect_error
+[9/134] a6fead1d.sni.cloudflaressl.com - dns_or_connect_error
+[10/134] old.galleriabyalexan.com - dns_or_connect_error
+[11/134] 1whm.mvd.www.0fo46zfv46g59sj9.34.72.242.217.nip.io - dns_or_connect_error
+[12/134] htrjktrzshyxrf1hn6rdzs4y9re84hz616jk4tg8r6jntzs948rjh41z6h5.aidropmine.com - http_error
+[13/134] 1898hb.com - dns_or_connect_error
+[14/134] 35c674c8.sni.cloudflaressl.com - dns_or_connect_error
+[15/134] srqponn0ljihgg0ecuneevofluu876zstl24a2jt8isvmmxb1k2m6pfh3idtci.www.certifiedboss.com - dns_or_connect_error
+[16/134] sports.ambitstock.com - http_error
+[17/134] www-19845638.30.prod.hubspot-at-test.com - dns_or_connect_error
+[18/134] hoanglongg.io.vn - http_error
+[19/134] dcbaxaxcd76533c0c72d-e3b2-497b-87e0-fe93800546c2.supertutorlc.com - dns_or_connect_error
+[20/134] www.maun.co.in - http_error
+[21/134] fetranet.praind.com - http_error
+[22/134] www.dev.wwwadmin.srv837373.hstgr.cloud - dns_or_connect_error
+[23/134] www.real-doll.net - http_error
+[24/134] analysis.bitcoin-austria.at - http_error
+[25/134] cdapedregulho.cloud - http_error
+[26/134] mengshasaidyes.com - http_error
+[27/134] mountainmamascafe.app - http_error
+[28/134] wechat.egirls.lat - http_error
+[29/134] bento.thearchiver.my.id - http_error
+[30/134] ia.seniconstructions.ca - http_error
+[31/134] keatonkingco.com - http_error
+[32/134] priscaiwuchukwu.cv - http_error
+[33/134] shopnimo.shop - http_error
+[34/134] heistbd.com - http_error
+[35/134] web.vaemo.com - dns_or_connect_error
+[36/134] www.heistbd.com - http_error
+[37/134] jobs.taraki.co - http_error
+[38/134] vanicosmeticsofficial.shop - http_error
+[39/134] dashboard.restoaction.ca - http_error
+[40/134] chatgpt.699mpl.xyz - http_error
+[41/134] login.linkt.org - http_error
+[42/134] www.huodqq88.ws - http_error
+[43/134] hlg2369f.cc - http_error
+[44/134] 1.31xx10000d.cc - http_error
+[45/134] k8s.vpnf.net - http_error
+[46/134] www.mail.sidak777.com - http_error
+[47/134] staging.look.kfiopkln.com - http_error
+[48/134] www.ww1.lometatxrvpark.com - http_error
+[49/134] yokrew.com - http_error
+[50/134] legacy.local.soccer - http_error
+[51/134] testnet.hashi.natsai.xyz - http_error
+[52/134] yxguevuxlpsqkg1v.fontain.info - dns_or_connect_error
+[53/134] n8n.13.143.141.11.sslip.io - dns_or_connect_error
+[54/134] nijaqoz0jrrgxcro.bit-shrapnel.ch - dns_or_connect_error
+[55/134] cms.noahscloud.de - dns_or_connect_error
+[56/134] com.brphpmyadmin.login.ftp.sitemaps.parking500.pl - dns_or_connect_error
+[57/134] sx.nazm.store - http_error
+[58/134] www.theorganicer.betterplace.org - http_error
+[59/134] www.edimo.at - http_error
+[60/134] dwww.notexists654761032187210notexistsupdate.170.okcomputers.eth.link - dns_or_connect_error
+[61/134] nwww.ilgfehkjedcbanotexists72987notexistsupdate.update.170.okcomputers.eth.link - dns_or_connect_error
+[62/134] staging.daisybeauty.com - http_error
+[63/134] licensing.quietworxstudio.com - http_error
+[64/134] zhanghaologin.pizzornigra.it - http_error
+[65/134] sji.edu.sg - http_error
+[66/134] www.ospreywealth.com - http_error
+[67/134] chat.qubit-teams.com - http_error
+[68/134] dev.hotelboli.is - http_error
+[69/134] mwe.mwelektroker.hu - http_error
+[70/134] mail.hardnuts.fun - http_error
+[71/134] m.oopvsdfaxsdsfvh.com - http_error
+[72/134] demoerp.oun.qa - http_error
+[73/134] hostmaster.linkt.org - http_error
+[74/134] adcelerate360brandhub.info - dns_or_connect_error
+[75/134] waveplay.app - unknown_timeout
+[76/134] www.cdapedregulho.cloud - http_error
+[77/134] netflix.guildaero.space - http_error
+[78/134] www.new.efimed.ma - http_error
+[79/134] communication.mutuaide.fr - http_error
+[80/134] talent-map.com - http_error
+[81/134] site-superspace.rahmanef.com - http_error
+[82/134] jellyfin.alpha-52.com - http_error
+[83/134] 81b0f18859b7433cbf35129e.netcraze.io - http_error
+[84/134] 55a475600d36dbdf9f65fdff.netcraze.io - unknown_timeout
+[85/134] temp.hunnyhive.com - unknown_timeout
+[86/134] 65a45af6d6ce2da1b49e9094.netcraze.io - unknown_timeout
+[87/134] jonuds.direct.quickconnect.to - unknown_timeout
+[88/134] ww38.capiry.life - unknown_timeout
+[89/134] gloria-cool.direct.quickconnect.to - unknown_timeout
+[90/134] nayloula03102024.direct.quickconnect.to - unknown_timeout
+[91/134] sabrinacomugnaro.direct.quickconnect.to - unknown_timeout
+[92/134] hamqjd.com - unknown_timeout
+[93/134] cnefasys.direct.quickconnect.to - unknown_timeout
+[94/134] neavnas.direct.quickconnect.to - unknown_timeout
+[95/134] oueis.direct.quickconnect.to - unknown_timeout
+[96/134] ns1.cpanelhost.cl - unknown_timeout
+[97/134] begrafenissen-bael.be - unknown_timeout
+[98/134] ai.taooa.net - unknown_timeout
+[99/134] cagekame.direct.quickconnect.to - unknown_timeout
+[100/134] subs.cld.galzuris.ru - unknown_timeout
+[101/134] nusless.direct.quickconnect.to - unknown_timeout
+[102/134] device-local-46322bfd-b6ba-4764-95da-1fa5392b42ed.remotewd.com - unknown_timeout
+[103/134] appsse.com.es - unknown_timeout
+[104/134] www.9432merri-oil.comtw.quickconnect.to.comcom.leosmart.de - unknown_timeout
+[105/134] f8a94e04775c459ef72bb80e.netcraze.io - unknown_timeout
+[106/134] kohsamuivoyage.direct.quickconnect.to - unknown_timeout
+[107/134] rocfileserver.direct.quickconnect.to - unknown_timeout
+[108/134] ctsncnas.direct.quickconnect.to - unknown_timeout
+[109/134] www3b09bd7b16ef8739714afd3c814b69.eu6.myvolumio.org - unknown_timeout
+[110/134] www.hamqjd.com - unknown_timeout
+[111/134] monitoring.vb-dev.alaxione.fr - unknown_timeout
+[112/134] nasd87994.myqnapcloud.com - unknown_timeout
+[113/134] git.yocity.pro - unknown_timeout
+[114/134] 18c24180e0d0.auth.cbhotspot.canbil.com - unknown_timeout
+[115/134] gtwrlcomure.theourthreads.com.leosmart.de - unknown_timeout
+[116/134] www.luojianzhonggong.com - unknown_timeout
+[117/134] teamtrans.direct.quickconnect.to - unknown_timeout
+[118/134] staffel.diskstation.me - unknown_timeout
+[119/134] sitemap.tripartit3.com - unknown_timeout
+[120/134] sweetds.myds.me - unknown_timeout
+[121/134] www.joyvoucher.com - unknown_timeout
+[122/134] 23960.vip - unknown_timeout
+[123/134] wap.hamqjd.com - unknown_timeout
+[124/134] imap.multimatic.jp - unknown_timeout
+[125/134] speedtest.simbarnet.my.id.prod.hosts.ooklaserver.net - unknown_timeout
+[126/134] nndung84.direct.quickconnect.to - unknown_timeout
+[127/134] www.plopsapark.de - unknown_timeout
+[128/134] mytechimportexport.com - unknown_timeout
+[129/134] elitcipo.synology.me - unknown_timeout
+[130/134] sternwartestuttgart.direct.quickconnect.to - unknown_timeout
+[131/134] anathool.direct.quickconnect.to - unknown_timeout
+[132/134] kamiitakamori0205.direct.quickconnect.to - unknown_timeout
+[133/134] travatrap.com - unknown_timeout
+[134/134] atlantis-payment-instrument-service.xero.dev - unknown_timeout
 
 ======================================================================
 [*] Scan complete!
-    Total scanned: 46
+    Total scanned: 134
     Vulnerable: 0
     Failed: 0
-[+] Results saved in: res_20261027_231723
+[+] Results saved in: res_20261028_051703
 
 [*] Analyzing results...
     Found 0 targets with critical keys
-[+] Summary saved: res_20261027_231723/_summary_20261027_231843.txt
+[+] Summary saved: res_20261028_051703/_summary_20261028_051824.txt
 
 [*] Zipping results folder...
-    Created: res_20261027_231723.zip (0.0 MB)
+    Created: res_20261028_051703.zip (0.0 MB)
     Telegram delivery disabled by default (set SEND_TELEGRAM=1 to send raw result zip)

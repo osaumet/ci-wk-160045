@@ -1,59 +1,212 @@
 [dedup] warn: text registry append failed: [Errno 13] Permission denied: '/root/ct_dump/priority_scanned.txt'
-[dedup] on: 255 hosts in (255 probes) -> 33 unseen hosts (33 probes) | skipped 222 already-scanned probes
+[dedup] on: 183 hosts in (186 probes) -> 183 unseen hosts (186 probes) | skipped 0 already-scanned probes
 ======================================================================
 CVE-2025-55182 Batch Scanner — @Haf[redacted]Bot
 ======================================================================
-[*] Targets: 33
+[*] Targets: 186
 [*] Concurrency: 250 | Timeout: 8s
-[*] Output directory: res_20261027_231723
+[*] Output directory: res_20261028_051703
 [*] Telegram: Will send zip when complete
 [*] Vulnerable registry: vulnerable_targets_registry.txt
 ----------------------------------------------------------------------
-[1/33] courtneyhandlphotography.com - http_error
-[2/33] cf6ca59e.sni.cloudflaressl.com - dns_or_connect_error
-[3/33] trump2024hatsandmerch.com - http_error
-[4/33] smvd.s0qonj0hfn0ljilgff0dbad766042187618770532097705370532en.dcurtis.svbtlestage.com - dns_or_connect_error
-[5/33] goblinspire.com - http_error
-[6/33] 4www.3duyyoabndnw3q59aila3ycz4x9.cse.casl.cal.msu.edu - dns_or_connect_error
-[7/33] www.magistvsp.net - http_error
-[8/33] test.patientcenteredmedicalcommunity.net - http_error
-[9/33] cms.cargo-underwriters.net - dns_or_connect_error
-[10/33] iixi.cc - http_error
-[11/33] burninglovebendigo.com - http_error
-[12/33] m.solaridaho.com - dns_or_connect_error
-[13/33] dev-com-gs.collegehealthsurvey.co - http_error
-[14/33] autodiscover.nlem.battery.cam - dns_or_connect_error
-[15/33] arabic.cofdmvideotransmitter.com - unknown_timeout
-[16/33] german.cofdmvideotransmitter.com - unknown_timeout
-[17/33] korean.intermediatespharma.com - unknown_timeout
-[18/33] hindi.carspraywax.com - unknown_timeout
-[19/33] persian.cofdmvideotransmitter.com - unknown_timeout
-[20/33] greek.tinoxtio2.com - unknown_timeout
-[21/33] spanish.intermediatespharma.com - unknown_timeout
-[22/33] report.k8s.kyp.stg.cerc.com - unknown_timeout
-[23/33] m.thai.decorativeglassvase.com - unknown_timeout
-[24/33] french.metalscrapshredder.com - unknown_timeout
-[25/33] vietnamese.metalscrapshredder.com - unknown_timeout
-[26/33] dutch.intermediatespharma.com - unknown_timeout
-[27/33] m.bengali.intermediatespharma.com - unknown_timeout
-[28/33] hindi.cofdmvideotransmitter.com - unknown_timeout
-[29/33] m.hindi.carspraywax.com - unknown_timeout
-[30/33] www.3tggrrherfuckingnigger.151.80.60.23.sslip.io - unknown_timeout
-[31/33] japanese.metalscrapshredder.com - unknown_timeout
-[32/33] cohttwebmail.youandco.com.au - unknown_timeout
-[33/33] french.cofdmvideotransmitter.com - unknown_timeout
+[1/186] vizio.me - http_error
+[2/186] svijet-financija.com - dns_or_connect_error
+[3/186] mugmart.zendesk.com - http_error
+[4/186] z3n-ctm-voluntary-pod26-a1-2.zendesk.com - http_error
+[5/186] sshhh-lanchat.tech - http_error
+[6/186] www.xn--chriechic-c4a.com - dns_or_connect_error
+[7/186] waslati.com - http_error
+[8/186] www.hairzy.shop - dns_or_connect_error
+[9/186] api.openepi.io - http_error
+[10/186] helloamz.info - http_error
+[11/186] fw.harfamily.com - dns_or_connect_error
+[12/186] ponqponmlgjihgfednotexists698721m.nancy-mercedrealestate-com.mercedrealestate.com - dns_or_connect_error
+[13/186] petalosguate.com - dns_or_connect_error
+[14/186] z0xvv0trwhm.mvl.j0hfee0cawhm.e0ca8806440207299075503108064402032en.dcurtis.svbtlestage.com - dns_or_connect_error
+[15/186] tools.hayatech.dev - http_error
+[16/186] www.1whm.mvl.3u39rvmoab1kmo2f.34.72.242.217.nip.io - dns_or_connect_error
+[17/186] mvb.by - http_error
+[18/186] facescan.alsoworks.io - http_error
+[19/186] marketing-skills-warehouse.aceable.ai - http_error
+[20/186] www.conversion-loop.com - http_error
+[21/186] bestangle.app - http_error
+[22/186] erp.gtmvx.info - dns_or_connect_error
+[23/186] b70997a9.sni.cloudflaressl.com - dns_or_connect_error
+[24/186] firebirdrealty.net - http_error
+[25/186] www.smartfinancial.co-id.id - dns_or_connect_error
+[26/186] autodiscover.smartfinancial.co-id.id - dns_or_connect_error
+[27/186] atlanticdoorsystems.com - http_error
+[28/186] www.idasp.com.br - http_error
+[29/186] www-889504776.20.qa.hubspot-at-test.com - dns_or_connect_error
+[30/186] qualityinvestment.equinoxlab.com - http_error
+[31/186] 7bda5e24.sni.cloudflaressl.com - dns_or_connect_error
+[32/186] gfzexgoupdate.yxsupdate.kadmin.comwwwfc06e573-384b-4c4c-83c0-93ca9a73b51c.xn--gnceltakip-9db.com - dns_or_connect_error
+[33/186] crainbpnikqapvrsmvd.t0rpp0nll0jhl0jhh0fdl0jh945fe366-05ec-4798-bc8e-a5176ce386b8.sites.myonbi.kr - dns_or_connect_error
+[34/186] 84d0f741.sni.cloudflaressl.com - dns_or_connect_error
+[35/186] 4f56b978.sni.cloudflaressl.com - dns_or_connect_error
+[36/186] webmail.smartfinancial.co-id.id - dns_or_connect_error
+[37/186] webdisk.smartfinancial.co-id.id - dns_or_connect_error
+[38/186] ss0qonmlkjihgfewww.dcbaxaxcd76533c0c72d-e3b2-497b-87e0-fe93800546c2.supertutorlc.com - dns_or_connect_error
+[39/186] cpcalendars.smartfinancial.co-id.id - dns_or_connect_error
+[40/186] de914ed7.sni.cloudflaressl.com - dns_or_connect_error
+[41/186] www.leilao.yftec.com.br - dns_or_connect_error
+[42/186] welcome.foodisgood.com - http_error
+[43/186] www.whm.www.www.staging.status.srv766337.hstgr.cloud - dns_or_connect_error
+[44/186] ubos8.com - http_error
+[45/186] staging.kipuplabs.com - http_error
+[46/186] www.htu56.cc - dns_or_connect_error
+[47/186] www.whm.www.www.backend.staging.srv766337.hstgr.cloud - dns_or_connect_error
+[48/186] www.yellowdoor.club - http_error
+[49/186] hoctoc.com - http_error
+[50/186] giveavouch.com - http_error
+[51/186] getoverhim.app - http_error
+[52/186] florix.dev - http_error
+[53/186] vibeglitzxy.com - http_error
+[54/186] koku.lastslice.ca - http_error
+[55/186] onespace.community - http_error
+[56/186] almazhandmade.net.ph - http_error
+[57/186] caviness.consulting - http_error
+[58/186] churchplan.org - http_error
+[59/186] www.mail.harimau686.org - http_error
+[60/186] app.www.marcosservice.com - http_error
+[61/186] test.bestcasinosreviews.com - http_error
+[62/186] w1886.com - http_error
+[63/186] fitfeastvb.info - http_error
+[64/186] demo-api-ca.hdrwg.link - http_error
+[65/186] www.remote.mylustcam.com - http_error
+[66/186] mail.sombong188.com - http_error
+[67/186] shop.cn-logon.org - http_error
+[68/186] www.mail.sketsa777.com - http_error
+[69/186] fhiwrliw.sbs - http_error
+[70/186] mail.bantu188.com - http_error
+[71/186] 99yi.net - http_error
+[72/186] blog.epochbloum.info - http_error
+[73/186] mail.damkar77.com - http_error
+[74/186] demo02.solutioniq.de - http_error
+[75/186] cd.alshaye.com - http_error
+[76/186] www.chseuser-access.help - http_error
+[77/186] 0865whm.mvl.whm.mvl.whm.en.adminer.46-224-14-111.sslip.io - dns_or_connect_error
+[78/186] caliuapp.com - http_error
+[79/186] destartbaan.skoli.be - http_error
+[80/186] aiphotoeditor.io - http_error
+[81/186] game.dragonking365.com - dns_or_connect_error
+[82/186] cms-opes-veneto.diggocms.com - http_error
+[83/186] ideenfieber-coaching.de - dns_or_connect_error
+[84/186] stoko.no - dns_or_connect_error
+[85/186] singlinkhub.com - http_error
+[86/186] www.utsrqtonqpojmlgfkxwmyura.dsfularkj.zytsnmlknihgnmlgfedcnotexists54725blog.notexists7baip43fi378g9vb.aicoelektronik.com - dns_or_connect_error
+[87/186] vpce-09bf8b28f69a9d7dd-1064qeeh-sa-east-1c.s3.sa-east-1.vhm.gaqlydpb.jrdnswork.myhome-server.de - dns_or_connect_error
+[88/186] www.1www.475c674f-4003-421c-9d6e-553f3c279fd5.bidya.bd - dns_or_connect_error
+[89/186] www.nmlkjihgfedcbenotexists76983610anamtstaging.wwwapp.37.27.88.135.dyn.tcadmin.net - dns_or_connect_error
+[90/186] www.543218321adb1ce63-31f6-4a74-90c7-c24cc1400e22.bidya.bd - dns_or_connect_error
+[91/186] www.lyty662.com - http_error
+[92/186] www.leyu938.com - http_error
+[93/186] siftara.ai - http_error
+[94/186] people.cs-ro.zohohost.ae - dns_or_connect_error
+[95/186] kubrabuildingservices.com.au - http_error
+[96/186] ukxffsuy.cyjpnbwt.mlonihkjihgbadcbaqahrtcpx.765432myaeickx.b4a1116e131738cd.cubexenterprises.com - http_error
+[97/186] lyty662.com - http_error
+[98/186] zyxwwww.rqponwww.ihwww.cbidcnotexists98765832notexistsnotexistsnotexistsm.jvmpyshl.yaanx.in - dns_or_connect_error
+[99/186] talk.mthcs.com.br - http_error
+[100/186] 6543210www.32demo.admin.en.omoyfmembers.scanner4you.com - http_error
+[101/186] www.tenwebchat.com - http_error
+[102/186] tenwebchat.com - http_error
+[103/186] camphorwer.com - http_error
+[104/186] www-142249168.eu1.prod.hubspot-at-test.com - dns_or_connect_error
+[105/186] play3001.strucon.in - http_error
+[106/186] www.modaaq.com.tr - http_error
+[107/186] clouds-koorosh.space - http_error
+[108/186] meiqiaz.com.cn - http_error
+[109/186] cms.marmara.news - http_error
+[110/186] pazutefawith.pics - http_error
+[111/186] respiraespioap.info - http_error
+[112/186] unistdiscr.online - http_error
+[113/186] nono4dkeep.com - http_error
+[114/186] suzreach.com - http_error
+[115/186] esbemarketinggen.com - http_error
+[116/186] coinopal.com - http_error
+[117/186] koch-pac-systeme.de - http_error
+[118/186] zolkui.online - http_error
+[119/186] universalsolz.com - http_error
+[120/186] paisa.blog - http_error
+[121/186] kofrofoods.com - http_error
+[122/186] client.virtuekids.com - dns_or_connect_error
+[123/186] akihiro.battery.cam - dns_or_connect_error
+[124/186] cable-blk-199-8-212.superfasthome.net - http_error
+[125/186] 1lzgh.cosper.mx - http_error
+[126/186] bst-ca77b589-388b-448e-be49-2e0bd8388559-1.ustglobalinc.com - http_error
+[127/186] www.countrymensecurityinternational.com - dns_or_connect_error
+[128/186] www.vertexenglish.dyj.jnn.mybluehostin.me - http_error
+[129/186] turn.stroova.ru - http_error
+[130/186] jigwood.shop - http_error
+[131/186] 3b87a55e8d51aed021161584.netcraze.io - http_error
+[132/186] 8e62df05d6023761e6d38dc3.netcraze.io - http_error
+[133/186] glassmaster.app - http_error
+[134/186] api.rn.sesi.ga.hml.dti.systems - http_error
+[135/186] ee37494aa296d5dcf69963e1.netcraze.io - unknown_timeout
+[136/186] 2bb4cb569f93857753f16897.netcraze.io - unknown_timeout
+[137/186] d603dfd96a80c3e293d32300.netcraze.io - http_error
+[138/186] studiolegaleemme.direct.quickconnect.to - unknown_timeout
+[139/186] cam.zigine.com - unknown_timeout
+[140/186] tech-one.synology.me - unknown_timeout
+[141/186] r1789835648z34f4aa1e.aws.radiantlock.org - unknown_timeout
+[142/186] cofre.lab.rgfem.com - unknown_timeout
+[143/186] nordicemsphere.synology.me - unknown_timeout
+[144/186] 7654321prashanththilakarathnahettiarachchi.dev-mypage.lk - unknown_timeout
+[145/186] yk44.top - unknown_timeout
+[146/186] device-a6d5fce5-a786-4cf5-bceb-fc414c33fb99.remotewd.com - unknown_timeout
+[147/186] device-53ef9caf-2117-44bc-abab-d8a55efc8052.remotewd.com - unknown_timeout
+[148/186] d8fmpvx9m3.dattolocal.net - unknown_timeout
+[149/186] bouzbez.online - unknown_timeout
+[150/186] device-local-86c5c208-8e7c-4ecf-97db-e1fd39a9f651.remotewd.com - unknown_timeout
+[151/186] www.blaulichtwein.de - unknown_timeout
+[152/186] shopsybillgo.info - unknown_timeout
+[153/186] ale.podtopto.net - unknown_timeout
+[154/186] y8sw.com - unknown_timeout
+[155/186] gadmupan.direct.quickconnect.to - unknown_timeout
+[156/186] staging2b.lawyersnearme.com - unknown_timeout
+[157/186] castroletrainer.com - unknown_timeout
+[158/186] cka-sucaiwang.sucaicloud.com - unknown_timeout
+[159/186] staging2b.contractscounsel.com - unknown_timeout
+[160/186] fatture.darton.it - unknown_timeout
+[161/186] hcc-tmu.direct.quickconnect.to - unknown_timeout
+[162/186] plex.young.nebula.beardedtek.com - unknown_timeout
+[163/186] fsms.direct.quickconnect.to - unknown_timeout
+[164/186] noticiastrial.eu - unknown_timeout
+[165/186] glg-bau.direct.quickconnect.to - unknown_timeout
+[166/186] flpp76cuho803dbi.myfritz.net - unknown_timeout
+[167/186] www.noticiastrial.eu - unknown_timeout
+[168/186] joersch1975.direct.quickconnect.to - unknown_timeout
+[169/186] www.aiyoubet2036.app - unknown_timeout
+[170/186] 10-0049.demo.militec.com.cn - unknown_timeout
+[171/186] v67.cloudprime.in - unknown_timeout
+[172/186] blackoutbee.com - unknown_timeout
+[173/186] plex.alwaysnever.net - unknown_timeout
+[174/186] www.scoreboard.lu - unknown_timeout
+[175/186] collection.bihya.com - unknown_timeout
+[176/186] novadip.contact - unknown_timeout
+[177/186] www.seriousplaytime.org - unknown_timeout
+[178/186] sb.solverde-online-casino.com - unknown_timeout
+[179/186] rpp525idrp.direct.quickconnect.to - unknown_timeout
+[180/186] quorvex.today - unknown_timeout
+[181/186] ym95.top - unknown_timeout
+[182/186] 12-0058.demo.militec.com.cn - unknown_timeout
+[183/186] prometheus.internal.staging.nlcom.nl - unknown_timeout
+[184/186] 10-0088.demo.militec.com.cn - unknown_timeout
+[185/186] jonathan-jnsys.direct.quickconnect.to - unknown_timeout
+[186/186] mzhd416.direct.quickconnect.to - unknown_timeout
 
 ======================================================================
 [*] Scan complete!
-    Total scanned: 33
+    Total scanned: 186
     Vulnerable: 0
     Failed: 0
-[+] Results saved in: res_20261027_231723
+[+] Results saved in: res_20261028_051703
 
 [*] Analyzing results...
     Found 0 targets with critical keys
-[+] Summary saved: res_20261027_231723/_summary_20261027_231843.txt
+[+] Summary saved: res_20261028_051703/_summary_20261028_051825.txt
 
 [*] Zipping results folder...
-    Created: res_20261027_231723.zip (0.0 MB)
+    Created: res_20261028_051703.zip (0.0 MB)
     Telegram delivery disabled by default (set SEND_TELEGRAM=1 to send raw result zip)
